@@ -1,0 +1,16 @@
+.display-text {
+  color: aliceblue;
+  list-style-type: none;
+  margin-right: 10px;
+}
+.tab-button {
+  border: none;
+  outline: none;
+  font-size: 20px;
+  color: #ffffff;
+  background-color: transparent;
+}
+.active-tab {
+  text-decoration: underline;
+  color: #fec653;
+}
